@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media (max-width: 600px) {
+    .first_title h1 {
+        font-size: 3rem;
+    }
+    .first_title p {
+        font-size: 1.5rem;
+    }
+}
+
+body {
+    font-family: "Allerta", sans-serif;
+    background-color: #FFFFFF;
+    color: #383D42;
+    min-height: 100vh;
+}
+
+.first-title {
+    display: flex;
+    height: auto;
+}
+
+.text-container {
+    width: 50%;
+    background-color: #FFFFFF;
+    color: #8bc0d2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.text-container h1 {
+    font-family: "Allerta", sans-serif;
+    font-weight: 400;
+    font-size: 4rem;
+    margin-bottom: 10px;
+}
+
+.text-container p {
+    font-family: "Space Mono", monospace;
+    font-size: 2rem;
+}
+
+.image-container {
+    width: 50%; 
+    background-image: url("IMG_E4169_2.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.education {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: #D3E2E9;
+    color: black;
+}
+
+.education h2 {
+    font-size: 2rem; 
+    margin-bottom: 30px;
+}
+
+.education-items{
+    display: flex; 
+    margin-top: 20px;
+}
+
+.education-item {
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.education-item h3 {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+}
+
+.education-item p {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
