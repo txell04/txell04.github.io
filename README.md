@@ -25,4 +25,7 @@ Now for the typography, I chose “Allerta”, a modern sans-serif font that has
 The page layout it's as simple as the color palette and the typographies used, one area at a time. Following what I said previously, the background colors are used to make a difference between sections, so the user is almost guided along the page.
 
 
-Figma project: link
+Figma project: https://www.figma.com/design/CPP6RCfIVcoWWhqofqB2cL/cv_website?node-id=0-1&t=7YDN3Ro34RNJxiCw-1
+
+
+Public link: https://txell04.github.io/curriculum.html
