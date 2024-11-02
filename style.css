@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 600px) {
     h1 {
         font-size: 1.6rem;
     }
